@@ -1,0 +1,6 @@
+username	gender	email	status
+shweta1	Female	shweta1@gmail.com	Active
+shweta2	Female	shweta2@gmail.com	Active
+shweta3	Female	shweta3@gmail.com	Active
+shweta4	Female	shweta4@gmail.com	Active
+shweta5	Female	shweta5@gmail.com	Active
